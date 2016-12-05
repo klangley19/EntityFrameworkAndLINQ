@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Basic.AdventureWorks2008R2Entities">
+    <Position X="1.75" Y="4" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AIpABBgACIAAAQEAIAIJAAAACAACAAAEACAAAAQCgAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Basic.Address" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wQIAAAAAOABAAgIIIAEABNABAkAABCgwQIAIAFAQAAg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Basic.AddressType" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEICAAAAAAAAAAIAAAAAZBQBAgAARCAAAIAAAEAgAAg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Basic.BusinessEntity" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIIAAAAAAAAAAAIAAAAAABABAgBIACACAIAAAUgAABg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Basic.BusinessEntityAddress" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QEAAAAEAAgIAAAIAAAAARNABAkAAECACAIAAAUwgABo=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Basic.Employee" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gIhiEQiKBAiaCBOECIUBAhQDAilAACACAoAAG0iZDBg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Basic.Person" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kASAAOBQAyMAAGqSIBETAVABCoAAgHBCCKYgBUiAABg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Basic.SalesPerson" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MEBQEEEAAEAQQAIABAgmgFABCgAACCCSIIAAAUgARBg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

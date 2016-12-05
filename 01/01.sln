@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic", "Basic\Basic.csproj", "{4866F3E1-F5BB-4A76-98E5-2CD1623C3561}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntitySQL", "EntitySQL\EntitySQL.csproj", "{C874066E-91B6-429F-A995-4602B03DAB6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grouping", "Grouping\Grouping.csproj", "{5A82D874-5E88-4F1F-8F2A-01582A6C747F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projections", "Projections\Projections.csproj", "{2F26FD31-758D-428A-8B3A-CA98054231E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4866F3E1-F5BB-4A76-98E5-2CD1623C3561}.Debug|x86.ActiveCfg = Debug|x86
+		{4866F3E1-F5BB-4A76-98E5-2CD1623C3561}.Debug|x86.Build.0 = Debug|x86
+		{4866F3E1-F5BB-4A76-98E5-2CD1623C3561}.Release|x86.ActiveCfg = Release|x86
+		{4866F3E1-F5BB-4A76-98E5-2CD1623C3561}.Release|x86.Build.0 = Release|x86
+		{C874066E-91B6-429F-A995-4602B03DAB6B}.Debug|x86.ActiveCfg = Debug|x86
+		{C874066E-91B6-429F-A995-4602B03DAB6B}.Debug|x86.Build.0 = Debug|x86
+		{C874066E-91B6-429F-A995-4602B03DAB6B}.Release|x86.ActiveCfg = Release|x86
+		{C874066E-91B6-429F-A995-4602B03DAB6B}.Release|x86.Build.0 = Release|x86
+		{5A82D874-5E88-4F1F-8F2A-01582A6C747F}.Debug|x86.ActiveCfg = Debug|x86
+		{5A82D874-5E88-4F1F-8F2A-01582A6C747F}.Debug|x86.Build.0 = Debug|x86
+		{5A82D874-5E88-4F1F-8F2A-01582A6C747F}.Release|x86.ActiveCfg = Release|x86
+		{5A82D874-5E88-4F1F-8F2A-01582A6C747F}.Release|x86.Build.0 = Release|x86
+		{2F26FD31-758D-428A-8B3A-CA98054231E5}.Debug|x86.ActiveCfg = Debug|x86
+		{2F26FD31-758D-428A-8B3A-CA98054231E5}.Debug|x86.Build.0 = Debug|x86
+		{2F26FD31-758D-428A-8B3A-CA98054231E5}.Release|x86.ActiveCfg = Release|x86
+		{2F26FD31-758D-428A-8B3A-CA98054231E5}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
